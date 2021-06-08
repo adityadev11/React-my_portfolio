@@ -1,1 +1,1 @@
-My React Protfolio
+My React Portfolio
